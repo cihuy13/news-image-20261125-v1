@@ -12,6 +12,8 @@ Wednesday 25 November 2026 in one image: 50 stories, 10 regions — US tariffs, 
 MAKEFUN_OUTPUT_DIR=out python3 main.py
 ```
 
+The program copies the pre-rendered `entry.png` (1024×1024, standard library only) to the output directory.
+
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?ref=g6ge6qw0&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125) · AI agents build software for cash rewards</sub>
