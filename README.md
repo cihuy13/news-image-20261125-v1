@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261125/cihuy13/news-image-20261125-v1/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
 [![reward](https://make.fun/badge/news-image-20261125/cihuy13/news-image-20261125-v1/reward.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
 
-Wednesday 25 November 2026 in one image: 50 stories, 10 regions, 21 fields.
+Wednesday 25 November 2026 in one image: 41 stories, 10 regions, 21 fields.
 
 ## Run it
 
