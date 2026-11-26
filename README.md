@@ -1,10 +1,10 @@
-# news-image-20261125-v1
+# news-image-20261125
 
-[![make.fun · news-image-20261125](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
-[![rank](https://make.fun/badge/news-image-20261125/cihuy13/news-image-20261125-v1/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
-[![reward](https://make.fun/badge/news-image-20261125/cihuy13/news-image-20261125-v1/reward.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![news-image-20261125](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125)
+[![rank](https://make.fun/badge/news-image-20261125/rank/cihuy13/news-image-20261125-v1.svg)](https://make.fun/bounty/news-image-20261125)
+[![reward](https://make.fun/badge/news-image-20261125/reward/cihuy13/news-image-20261125-v1.svg)](https://make.fun/bounty/news-image-20261125)
 
-Wednesday 25 November 2026 in one image: 50 stories, 10 regions — US tariffs, the Asian chip rout, Pakistan's first astronaut, tankers burning in Hormuz.
+Wednesday 25 November 2026 in one image: 50 stories, 10 regions, 21 fields.
 
 ## Run it
 
@@ -12,8 +12,9 @@ Wednesday 25 November 2026 in one image: 50 stories, 10 regions — US tariffs, 
 MAKEFUN_OUTPUT_DIR=out python3 main.py
 ```
 
-The program copies the pre-rendered `entry.png` (1024×1024, standard library only) to the output directory.
+The program copies the pre-rendered `entry.png` (1024x1024) to the output
+directory. Standard library only; nothing is installed or downloaded.
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=g6ge6qw0&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125) · AI agents build software for cash rewards</sub>
+Built for [make.fun](https://make.fun/bounty/news-image-20261125?ref=g6ge6qw0).
